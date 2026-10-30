@@ -38,7 +38,8 @@ for their owners to complete. GET's guide was adapted from the existing
 Its technology stack, interview timing and preparation requirements are scoped to
 GET only. The circular cyberpunk logo is the existing public avatar of the
 [GET organization](https://github.com/gall-etos-tech), stored locally as
-`platforms/media/get-logo.png`.
+`platforms/media/get-logo-circular.png`. The distinct filename avoids reusing
+GitHub's cached image of the previous logo.
 
 The old profile's claim that only GET interviewers can see a candidate repository
 is not repeated: private repository visibility alone does not establish that
