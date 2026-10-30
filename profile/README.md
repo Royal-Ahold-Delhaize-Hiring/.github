@@ -21,9 +21,6 @@ prepare for its hiring process.
 | Albert Heijn | EEP - Engineering Enablement Platform | [Meet AH EEP](https://github.com/Royal-Ahold-Delhaize-Hiring/.github/blob/main/platforms/ah-eep.md) |
 | Gall & Gall and Etos | GET - Gall & Etos Technology | [Meet GET](https://github.com/Royal-Ahold-Delhaize-Hiring/.github/blob/main/platforms/get.md) |
 
-This directory is a starting point and can grow as more platforms and banners join.
-Some guides are still being completed; those pages say so explicitly.
-
 ## Not sure where to start?
 
 Ask your recruiter or hiring contact which platform you are interviewing with.
