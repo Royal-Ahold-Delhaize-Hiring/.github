@@ -33,10 +33,12 @@ they work both on the organization overview and inside the repository.
 ## Initial platform guides
 
 AH CTP, AH RBP, AH STP and AH EEP have explicit unpublished notices and sections
-for their owners to complete. GET's guide and logo were adapted from the existing
+for their owners to complete. GET's guide was adapted from the existing
 [GET organization profile](https://github.com/gall-etos-tech/.github/blob/main/profile/README.md).
 Its technology stack, interview timing and preparation requirements are scoped to
-GET only.
+GET only. The circular cyberpunk logo is the existing public avatar of the
+[GET organization](https://github.com/gall-etos-tech), stored locally as
+`platforms/media/get-logo.png`.
 
 The old profile's claim that only GET interviewers can see a candidate repository
 is not repeated: private repository visibility alone does not establish that

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="media/get-logo.png" width="250" alt="GET logo"/>
+  <img src="media/get-logo.png" width="250" alt="GET circular cyberpunk logo"/>
 </div>
 
 # GET - Gall & Etos Technology
