@@ -70,16 +70,15 @@ between each:
      (`docker run --rm hello-world`)
    - [ ] Ports `3000`, `5432`, `8000` and `8080` free
    - [ ] Your favourite editor or IDE, set up the way you like it
-   - [ ] An AI coding agent (harness), installed, logged in and tried out on a
-     small task
+   - [ ] The [GitHub Copilot app](https://docs.github.com/en/copilot/concepts/copilot-surfaces/github-copilot-app)
+     installed and signed in with the GitHub account you gave us, or your own AI
+     coding agent ready to use
 
    We build with AI every day, and we expect you to use an AI coding agent during
    the case: a tool that can read your repository, run commands and make changes
-   for you. If you don't have a favourite yet, pick one of these:
-
-   - [Claude Code](https://claude.com/product/claude-code)
-   - [Codex](https://github.com/openai/codex)
-   - [GitHub Copilot app](https://docs.github.com/en/copilot/concepts/copilot-surfaces/github-copilot-app)
+   for you. We will provide a GitHub Copilot seat for your session; the easiest way
+   to use it is with the GitHub Copilot app. You don't need your own Copilot
+   subscription. If you prefer, you can bring and use your own AI coding agent.
 
 If anything on this list doesn't work, let us know before the interview so we can
 sort it out together.
