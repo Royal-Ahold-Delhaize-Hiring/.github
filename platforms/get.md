@@ -87,15 +87,6 @@ You will be interviewed in one of two three-hour slots:
 | 90 min | **Working on the assignment.** Pick up GitHub issues in the assignment repository and build on a small, realistic application from our retail domain. |
 | 30 min | **Joint review.** We look at what you built together and talk about your choices. |
 
-The first start builds a few containers, so give it a couple of minutes. Work the
-way you normally would, with your own editor and your AI coding agent. Nobody
-watches over your shoulder, but you are not on your own: an engineer is available
-throughout, so message them whenever you have a question or get stuck. Asking
-questions is part of the job.
-
-**We don't expect you to finish everything.** Doing a few issues well is better
-than rushing through all of them. Commit and push your work before the review.
-
 The review is a conversation, not a defence. Make sure you understand what your
 agent produced: we will ask you about it.
 
