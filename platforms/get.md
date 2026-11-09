@@ -74,15 +74,18 @@ sort it out together.
 
 ### On the day
 
-You will be interviewed in one of two three-hour slots, morning or afternoon:
+You will be interviewed in one of two three-hour slots:
 
-| Duration | Morning | Afternoon | What happens |
-| --- | --- | --- | --- |
-| 45 min | 9:00 AM - 9:45 AM | 1:00 PM - 1:45 PM | **Getting to know each other.** A conversation about you, how you work and how we work. No laptop needed. |
-| 5 min | 9:45 AM - 9:50 AM | 1:45 PM - 1:50 PM | **Break.** Grab a coffee while we push the case to your repository. |
-| 10 min | 9:50 AM - 10:00 AM | 1:50 PM - 2:00 PM | **Introduction to the assignment.** We walk through the case, then you pull it, read the README and start the stack as described there. |
-| 90 min | 10:00 AM - 11:30 AM | 2:00 PM - 3:30 PM | **Working on the assignment.** Pick up GitHub issues in the assignment repository and build on a small, realistic application from our retail domain. |
-| 30 min | 11:30 AM - noon | 3:30 PM - 4:00 PM | **Joint review.** We look at what you built together and talk about your choices. |
+- **Morning:** 9 AM - noon
+- **Afternoon:** 1 PM - 4 PM
+
+| Duration | What happens |
+| --- | --- |
+| 45 min | **Getting to know each other.** A conversation about you, how you work and how we work. No laptop needed. |
+| 5 min | **Break.** Grab a coffee while we push the case to your repository. |
+| 10 min | **Introduction to the assignment.** We walk through the case, then you pull it, read the README and start the stack as described there. |
+| 90 min | **Working on the assignment.** Pick up GitHub issues in the assignment repository and build on a small, realistic application from our retail domain. |
+| 30 min | **Joint review.** We look at what you built together and talk about your choices. |
 
 The first start builds a few containers, so give it a couple of minutes. Work the
 way you normally would, with your own editor and your AI coding agent. Nobody
